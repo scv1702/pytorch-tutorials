@@ -1,2 +1,3 @@
 # pytorch-tutorials
 Pytorch tutorials for beginner
+https://pytorch.org/tutorials/beginner/basics/intro.html
